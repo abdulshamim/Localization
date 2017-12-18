@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LanguageSupport
+
+  Created by cl-macmini-23 on 18/12/17.
+  Copyright © 2017 cl-macmini-23. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "LanguageSupport";
